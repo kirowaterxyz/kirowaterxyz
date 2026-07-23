@@ -1,6 +1,6 @@
 <p align="center">
   <b>interests: c++, c</b><br/>
-  <b>contact: kirowater.xyz</b>
+  <b>website: kirowater.xyz</b>
 </p>
 
 <p align="center">
